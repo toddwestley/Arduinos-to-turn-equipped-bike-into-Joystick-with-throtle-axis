@@ -18,6 +18,7 @@ I used my knowledge of thermodynamics (and help from a high school junior to sol
 
 If you opt us my software, I would enjoy hearing from you.   I think the best way to get in touch with me through forum.flightgear.org or by commenting on my github.com posting.  I endured a mild diffuse axonal injury whle cycling in Ohio, so my response may not be quick.   If you also have a traumatic brain injury, feel free to comment about that also.
 
+You will need to correct the MAC address used by your sensor "sender sketch" [Line 43]
 
 Leonardo: “https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/ref=sr_1_1_sspa?crid=1QHUY74RYKTIJ&keywords=Leonardo+Arduino&qid=1670592791&sprefix=leonardo+arduino%2Caps%2C74&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTVA4MjRUVUlBVUlWJmVuY3J5cHRlZElkPUEwNTkwNjQzM0VIMUpCMTZJVkUxQSZlbmNyeXB0ZWRBZElkPUEwNzUzNjA4MzVQVDRQRjcySkg5QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=”
 
