@@ -26,7 +26,7 @@ Uno Wifi R2: “https://www.amazon.com/Arduino-UNO-WiFi-REV2-ABX00021/dp/B07MK59
 
 Wahoo Speed Sensor: “https://www.amazon.com/Wahoo-Cycling-Cadence-Sensor-Bluetooth/dp/B01DIE7LUG/ref=sr_1_1_sspa?crid=2RSJPNBK0Q5Y7&keywords=wahoo%2Bspeed%2Bsensor&qid=1670592911&sprefix=wahoo%2Bspeed%2Bsensor%2Caps%2C102&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1VTRMTFFGUU5SRFEmZW5jcnlwdGVkSWQ9QTA2OTQxMzdHN1FCU1ZDUUkwUUMmZW5jcnlwdGVkQWRJZD1BMDM4Mzg2OVdYVzNPWkVBRFQzMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1”
 
-
+https://github.com/toddwestley/Arduinos-to-turn-equipped-bike-into-Joystick-with-throtle-axis
 
 
 
