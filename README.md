@@ -20,6 +20,10 @@ If you opt us my software, I would enjoy hearing from you.   I think the best wa
 
 You will need to correct the MAC address used by your sensor "sender sketch" [Line 43]
 
+Doubtlessly, I was helped by the Holy Spirit to write this code.
+
+Ig you enjoy using what I have done, please make a donation to the Brain Injury Association of Maryland, 2200 Kernan Dr, Baltimore, MD 21286.
+
 Leonardo: “https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/ref=sr_1_1_sspa?crid=1QHUY74RYKTIJ&keywords=Leonardo+Arduino&qid=1670592791&sprefix=leonardo+arduino%2Caps%2C74&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTVA4MjRUVUlBVUlWJmVuY3J5cHRlZElkPUEwNTkwNjQzM0VIMUpCMTZJVkUxQSZlbmNyeXB0ZWRBZElkPUEwNzUzNjA4MzVQVDRQRjcySkg5QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=”
 
 Uno Wifi R2: “https://www.amazon.com/Arduino-UNO-WiFi-REV2-ABX00021/dp/B07MK598QV/ref=sr_1_2?crid=9XDCT4RNWX3Z&keywords=uno+wifi+rv2+Arduino&qid=1670592855&sprefix=uno+wifi+rv2+arduino%2Caps%2C65&sr=8-2”
@@ -27,6 +31,8 @@ Uno Wifi R2: “https://www.amazon.com/Arduino-UNO-WiFi-REV2-ABX00021/dp/B07MK59
 Wahoo Speed Sensor: “https://www.amazon.com/Wahoo-Cycling-Cadence-Sensor-Bluetooth/dp/B01DIE7LUG/ref=sr_1_1_sspa?crid=2RSJPNBK0Q5Y7&keywords=wahoo%2Bspeed%2Bsensor&qid=1670592911&sprefix=wahoo%2Bspeed%2Bsensor%2Caps%2C102&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1VTRMTFFGUU5SRFEmZW5jcnlwdGVkSWQ9QTA2OTQxMzdHN1FCU1ZDUUkwUUMmZW5jcnlwdGVkQWRJZD1BMDM4Mzg2OVdYVzNPWkVBRFQzMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1”
 
 https://github.com/toddwestley/Arduinos-to-turn-equipped-bike-into-Joystick-with-throtle-axis
+
+
 
 
 
