@@ -14,6 +14,8 @@ To use the software, you need the following:
 
 This is a long and expensive list of equipment; but I do not know anyone that does not ride a bike trainer in front a monitor.  (My Mom once watched a monitor while walking on a tread mill in the basement.)  The next most expensive thing is a computer.  I conveniently located my desktop computer adjacent to that monitor, close to my bike trainer stand.
 
+I learned on December 11, that the Arduino Wifi Rev2 is sensitive to the distance between itself and the speed sensor.
+
 I used my knowledge of thermodynamics (and help from a high school junior to solve a differential equation) to account for  the lost resistance of the trainer stand due to use from a bike.  (Imagine a trainer stand as a tank of water – the water level represents its resistance (or lack of) of the trainer.  That tank includes a small hole.  Riding the bike on the trainer stand is like pouring water back into that tank with its hole.  Eventually the water level will be constant.)  
 
 If you opt us my software, I would enjoy hearing from you.   I think the best way to get in touch with me through forum.flightgear.org or by commenting on my github.com posting.  I endured a mild diffuse axonal injury whle cycling in Ohio, so my response may not be quick.   If you also have a traumatic brain injury, feel free to comment about that also.
