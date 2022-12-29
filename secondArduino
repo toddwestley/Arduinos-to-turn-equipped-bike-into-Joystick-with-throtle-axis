@@ -1,0 +1,30 @@
+#start FlightGear; get passed launcher
+#first connect Leonardo 
+#then connect uno wifi rev2
+#execute this file
+#make original terminal window large2 [2+]
+
+PREFIX=Arduino_from_20
+SUFFIX=.txt
+TIMEDATENOW=$PREFIX$( date +%y_%m_%d_%s)$SUFFIX
+stty -F /dev/ttyACM0 raw 9600
+cat /dev/ttyACM0 2>&1 | tee $TIMEDATENOW
+#for i in {1:32000}
+#do
+#	sleep 0.1
+#	if (test -f /dev/tty/ACM0 <> 1)
+#		then
+#			cat /dev/ttyACM0
+#	fi
+#done
+#15:52
+#13:50  
+#1:40
+#1:32
+#12:44
+#12:49
+#12:57
+#1:04
+#1:15
+#1:24
+
