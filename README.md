@@ -24,6 +24,8 @@ You will need to correct the MAC address used by your sensor "sender sketch" [Li
 
 Doubtlessly, I was helped by the Holy Spirit to write this code.
 
+On February 19, 2023 I completed a flight on a Windows 10 refurbished desktop using FlightGear 2018.  Now I can testify that the Arduinos I programmed work with Windows 10 and Linux Mint.
+
 Ig you enjoy using what I have done, please make a donation to the Brain Injury Association of Maryland, 2200 Kernan Dr, Baltimore, MD 21286.
 
 Leonardo: “https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/ref=sr_1_1_sspa?crid=1QHUY74RYKTIJ&keywords=Leonardo+Arduino&qid=1670592791&sprefix=leonardo+arduino%2Caps%2C74&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTVA4MjRUVUlBVUlWJmVuY3J5cHRlZElkPUEwNTkwNjQzM0VIMUpCMTZJVkUxQSZlbmNyeXB0ZWRBZElkPUEwNzUzNjA4MzVQVDRQRjcySkg5QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=”
