@@ -36,6 +36,8 @@ Wahoo Speed Sensor: “https://www.amazon.com/Wahoo-Cycling-Cadence-Sensor-Bluet
 
 https://github.com/toddwestley/Arduinos-to-turn-equipped-bike-into-Joystick-with-throtle-axis
 
+Here is a link to video of a virtual landing and takeoff after landing at KIOW. “https://drive.google.com/file/d/14pgV_AhfNtkUWgHMhFeNizu8ISapVS4y/view?usp=share_link”  Keyboard inputs are shown by using Screenkey.  Screen recording was done with SimpleScreenRecorder.  Throttle input was with my bike on the a tainer stand.  I do not have enough free disk space to record a much longer virual flight.
+
 
 
 
