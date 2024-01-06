@@ -26,7 +26,7 @@ Doubtlessly, I was helped by the Holy Spirit to write this code.
 
 On February 19, 2023 I completed a flight on a Windows 10 refurbished desktop using FlightGear 2018.  Now I can testify that the Arduinos I programmed work with Windows 10 and Linux Mint.
 
-Ig you enjoy using what I have done, please make a donation to the Brain Injury Association of Maryland, 2200 Kernan Dr, Baltimore, MD 21286.
+If you enjoy using what I have done, please make a donation to the Brain Injury Association of Maryland, 2200 Kernan Dr, Baltimore, MD 21286.
 
 Leonardo: “https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K/ref=sr_1_1_sspa?crid=1QHUY74RYKTIJ&keywords=Leonardo+Arduino&qid=1670592791&sprefix=leonardo+arduino%2Caps%2C74&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTVA4MjRUVUlBVUlWJmVuY3J5cHRlZElkPUEwNTkwNjQzM0VIMUpCMTZJVkUxQSZlbmNyeXB0ZWRBZElkPUEwNzUzNjA4MzVQVDRQRjcySkg5QiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=”
 
@@ -34,11 +34,13 @@ Uno Wifi R2: “https://www.amazon.com/Arduino-UNO-WiFi-REV2-ABX00021/dp/B07MK59
 
 Wahoo Speed Sensor: “https://www.amazon.com/Wahoo-Cycling-Cadence-Sensor-Bluetooth/dp/B01DIE7LUG/ref=sr_1_1_sspa?crid=2RSJPNBK0Q5Y7&keywords=wahoo%2Bspeed%2Bsensor&qid=1670592911&sprefix=wahoo%2Bspeed%2Bsensor%2Caps%2C102&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE1VTRMTFFGUU5SRFEmZW5jcnlwdGVkSWQ9QTA2OTQxMzdHN1FCU1ZDUUkwUUMmZW5jcnlwdGVkQWRJZD1BMDM4Mzg2OVdYVzNPWkVBRFQzMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1”
 
-https://github.com/toddwestley/Arduinos-to-turn-equipped-bike-into-Joystick-with-throtle-axis
+https://github.com/toddwestley/Arduinos-to-turn-equipped-bike-into-Joystick-with-throtle-axis [Yes, I spelled throttle incorrectly; it was my first day typing.]
 
 Here is a link to video of a virtual flight on youtube: “https://www.youtube.com/watch?v=MTuPJP9QE4Y”  
 
+Here is a video of the my screen that I see when using Windows operating system: “https://drive.google.com/file/d/1cDtEDb0_0jmoAqvWeZICLtALIt63s_zj/view?usp=drive_link”
 
+Here is the video of the same flight with me pedalling the bike on the trainer: ”https://drive.google.com/file/d/1LW01EeAcVdBShK229WW36dlGF4geq40N/view?usp=drive_link”
 
 
 
